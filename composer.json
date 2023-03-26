@@ -1,0 +1,11 @@
+{
+    "name": "zakaria/test-plugin",
+    "description": "test plugin for wp-plugin",
+    "license": "123",
+    "authors": [
+        {
+            "name": "md zakaria ahmed"
+        }
+    ],
+    "require": {}
+}
